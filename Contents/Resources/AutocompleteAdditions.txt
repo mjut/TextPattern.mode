@@ -1,140 +1,149 @@
-article_custom
-article_id
-article_image
-article_url_title
-author
-body
-breadcrumb
-category
-category_list
-category1
-category2
-comment_anchor
-comment_email
-comment_email_input
-comment_id
-comment_message
-comment_message_input
-comment_name
-comment_name_input
-comment_permlink
-comment_preview
-comment_remember
-comment_submit
-comment_time
-comment_web
-comment_web_input
-comments
-comments_count
-comments_error
-comments_form
-comments_help
-comments_invite
-comments_preview
-custom_field
-else
-email
-error_message
-error_status
-excerpt
-expires
-feed_link
-file_download
-file_download_category
-file_download_created
-file_download_description
-file_download_downloads
-file_download_id
-file_download_link
-file_download_list
-file_download_modified
-file_download_name
-file_download_size
-hide
-if_article_author
-if_article_category
-if_article_id
-if_article_image
-if_article_list
-if_article_section
-if_author
-if_category
-if_comments
-if_comments_allowed
-if_comments_disallowed
-if_comments_error
-if_comments_preview
-if_custom_field
-if_different
-if_excerpt
-if_expired
-if_expires
-if_first_article
-if_first_category
-if_first_section
-if_individual_article
-if_keywords
-if_last_article
-if_last_category
-if_last_section
-if_plugin
-if_search
-if_search_results
-if_section
-if_status
-if_variable
-image
-image_display
-image_index
-keywords
-lang
-link
-link_category
-link_date
-link_description
-link_feed_link
-link_id
-link_name
-link_to_home
-link_to_next
-link_to_prev
-link_url
-linkdesctitle
-linklist
-meta_author
-meta_keywords
-modified
-newer
-next_title
-older
-output_form
-page_title
-page_url
-password_protect
-permlink
-php
-popup
-posted
-prev_title
-recent_articles
-recent_comments
-related_articles
-rsd
-search_input
-search_result_count
-search_result_date
-search_result_excerpt
-search_result_title
-search_result_url
-search_term
-section
-section_list
-site_name
-site_slogan
-site_url
-text
-thumbnail
-title
-txp_die
-variable
-yield
+<txp:article_custom /
+<txp:article_id /
+<txp:article_image /
+<txp:article_url_title /
+<txp:author /
+<txp:
+<txp:body /
+<txp:breadcrumb /
+<txp:category /
+<txp:category_list /
+<txp:category1 /
+<txp:category2 /
+<txp:comment_anchor /
+<txp:comment_email /
+<txp:comment_email_input /
+<txp:comment_id /
+<txp:comment_message /
+<txp:comment_message_input /
+<txp:comment_name /
+<txp:comment_name_input /
+<txp:comment_permlink /
+<txp:comment_preview /
+<txp:comment_remember /
+<txp:comment_submit /
+<txp:comment_time /
+<txp:comment_web /
+<txp:comment_web_input /
+<txp:comments /
+<txp:comments_count /
+<txp:comments_error /
+<txp:comments_form /
+<txp:comments_help /
+<txp:comments_invite /
+<txp:comments_preview /
+<txp:custom_field /
+<txp:else /
+<txp:email /
+<txp:error_message /
+<txp:error_status /
+<txp:excerpt /
+<txp:expires /
+<txp:feed_link /
+<txp:file_download /
+<txp:file_download_category /
+<txp:file_download_created /
+<txp:file_download_description /
+<txp:file_download_downloads /
+<txp:file_download_id /
+<txp:file_download_link /
+<txp:file_download_list /
+<txp:file_download_modified /
+<txp:file_download_name /
+<txp:file_download_size /
+<txp:hide /
+<txp:if_article_author /
+<txp:if_article_category /
+<txp:if_article_id /
+<txp:if_article_image /
+<txp:if_article_list /
+<txp:if_article_section /
+<txp:if_author /
+<txp:if_category /
+<txp:if_comments /
+<txp:if_comments_allowed /
+<txp:if_comments_disallowed /
+<txp:if_comments_error /
+<txp:if_comments_preview /
+<txp:if_custom_field /
+<txp:if_different /
+<txp:if_excerpt /
+<txp:if_expired /
+<txp:if_expires /
+<txp:if_first_article /
+<txp:if_first_category /
+<txp:if_first_section /
+<txp:if_individual_article /
+<txp:if_keywords /
+<txp:if_last_article /
+<txp:if_last_category /
+<txp:if_last_section /
+<txp:if_plugin /
+<txp:if_search /
+<txp:if_search_results /
+<txp:if_section /
+<txp:if_status /
+<txp:if_variable /
+<txp:image /
+<txp:image_display /
+<txp:image_index /
+<txp:keywords /
+<txp:lang /
+<txp:link /
+<txp:link_category /
+<txp:link_date /
+<txp:link_description /
+<txp:link_feed_link /
+<txp:link_id /
+<txp:link_name /
+<txp:link_to_home /
+<txp:link_to_next /
+<txp:link_to_prev /
+<txp:link_url /
+<txp:linkdesctitle /
+<txp:linklist /
+<txp:meta_author /
+<txp:meta_keywords /
+<txp:modified /
+<txp:newer /
+<txp:next_title /
+<txp:older /
+<txp:output_form /
+<txp:page_title /
+<txp:page_url /
+<txp:password_protect /
+<txp:permlink /
+<txp:php /
+<txp:popup /
+<txp:posted /
+<txp:prev_title /
+<txp:recent_articles /
+<txp:recent_comments /
+<txp:related_articles /
+<txp:rsd /
+<txp:search_input /
+<txp:search_result_count /
+<txp:search_result_date /
+<txp:search_result_excerpt /
+<txp:search_result_title /
+<txp:search_result_url /
+<txp:search_term /
+<txp:section /
+<txp:section_list /
+<txp:site_name /
+<txp:site_slogan /
+<txp:site_url /
+<txp:text /
+<txp:thumbnail /
+<txp:title /
+<txp:txp_die /
+<txp:variable /
+<txp:yield /
+
+form="form_name"
+listform="form_name"
+id="integer"
+name="name"
+escape="html"
+wraptag="tag_text"
+class="class_name"
